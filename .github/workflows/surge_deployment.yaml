@@ -3,8 +3,6 @@ name: React App Deploy to Surge
 on: 
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
 
 jobs:
 
